@@ -1,0 +1,23 @@
+{
+  "name": "three-buffergeometry-sort",
+  "version": "1.0.0",
+  "description": "Utility to sort THREE.js BufferGeometry",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/frewsxcv/three-buffergeometry-sort"
+  },
+  "keywords": [
+    "three.js",
+    "buffergeometry"
+  ],
+  "author": "Corey Farwell <coreyf@rwell.org>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/frewsxcv/three-buffergeometry-sort/issues"
+  },
+  "homepage": "https://github.com/frewsxcv/three-buffergeometry-sort",
+  "devDependencies": {
+      "three": "~0.69.0"
+  }
+}
