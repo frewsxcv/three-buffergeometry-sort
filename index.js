@@ -17,6 +17,8 @@ module.exports = (function () {
                 if (currFrame > this.frameSkip) {
                     // Render next frame
                     currFrame = 0;
+                } else {
+                    currFrame += 1;
                 }
                 return;
             }

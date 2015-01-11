@@ -1,6 +1,6 @@
 {
   "name": "three-buffergeometry-sort",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Utility to sort THREE.js BufferGeometry",
   "main": "index.js",
   "repository": {
