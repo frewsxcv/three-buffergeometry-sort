@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/frewsxcv/three-buffergeometry-sort",
   "devDependencies": {
-      "three": "~0.69.0"
+      "three": "~0.71.0"
   }
 }
