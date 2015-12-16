@@ -1,8 +1,8 @@
 module.exports = (function () {
     "use strict";
-    
+
     var THREE = require("three");
-    
+
     var BufferGeometrySorter = function (frameSkip) {
         this.frameSkip = frameSkip || 0;
     };
