@@ -25,7 +25,7 @@ module.exports = (function () {
             currFrame += 1;
 
             var attributes = bufferGeomAttributes,
-                numPoints = attributes.position.length / 3;
+                numPoints = attributes.position.count / 3;
 
             for (var i = 0; i < numPoints; ++i) {
                 tmpPos.set(
